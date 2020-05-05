@@ -14,6 +14,7 @@ export const Container = styled.div`
     margin-top: 8px;
   }
   input {
+    color: #f4ede8;
     background: transparent;
     border: 0;
     &::placeholder {
